@@ -3,7 +3,7 @@ This is a python script to check the WAN connectivity of  5G THREE WIFI 6 Home R
 
 # WAN Connectivity Checker for 5G THREE WIFI 6 Home Router (Zyxel NR5103)
 
-![5G THREE WIFI 6 Home Router 2022 (Zyxel NR5103)](https://i.ebayimg.com/images/g/pvwAAOSwpBZkAdxV/s-l1600.webp)
+<img src="https://i.ebayimg.com/images/g/pvwAAOSwpBZkAdxV/s-l1600.webp" alt="5G THREE WIFI 6 Home Router 2022 (Zyxel NR5103)" width="300"/>
 
 This Python script checks the WAN connectivity of the "5G THREE WIFI 6 Home Router 2022 (Zyxel NR5103) Dual Band" wifi router.
 
